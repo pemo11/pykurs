@@ -1,0 +1,5 @@
+Plochingen,14213
+Nürtingen,41017
+Kircheim unter Teck,40446
+Göppingen,57094
+Esslingen,93004
